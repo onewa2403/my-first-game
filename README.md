@@ -9,4 +9,4 @@ Assets used:
 - [Casual Game BGM #5](https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943)
 - [FREE Casual Games SFX Pack](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116)
 
-You can play it here : https://onewa2403.github.io/my-first-game/
+You can play it here : https://onewa2403.github.io/my-first-game/ or here : https://simmer.io/@Onewa/my-first-game
