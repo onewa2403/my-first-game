@@ -2,7 +2,7 @@
 
 Hello eveyrone this is my first game ever !
 
-I created it following the tutorials from https://www.youtube.com/c/CodinginFlow then started adding my own stuff !
+I created it following the tutorials from [Coding Flow](https://www.youtube.com/c/CodinginFlow) then started adding my own stuff !
 
 Assets used:
 - [Pixel Adventure1](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)
