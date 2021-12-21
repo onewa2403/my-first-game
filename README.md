@@ -1,4 +1,4 @@
-# my-first-game
+# The adventure of On'o
 
 Hello eveyrone this is my first game ever !
 
